@@ -1,0 +1,13 @@
+E:\Dropbox\!Coding\All_in_one\TimeToBrute\TimeToBrute\bin\Debug\TimeToBrute.exe
+E:\Dropbox\!Coding\All_in_one\TimeToBrute\TimeToBrute\bin\Debug\TimeToBrute.pdb
+E:\Dropbox\!Coding\All_in_one\TimeToBrute\TimeToBrute\obj\Debug\MainWindow.g.cs
+E:\Dropbox\!Coding\All_in_one\TimeToBrute\TimeToBrute\obj\Debug\App.g.cs
+E:\Dropbox\!Coding\All_in_one\TimeToBrute\TimeToBrute\obj\Debug\TimeToBrute_MarkupCompile.cache
+E:\Dropbox\!Coding\All_in_one\TimeToBrute\TimeToBrute\obj\Debug\TimeToBrute_MarkupCompile.lref
+E:\Dropbox\!Coding\All_in_one\TimeToBrute\TimeToBrute\obj\Debug\MainWindow.baml
+E:\Dropbox\!Coding\All_in_one\TimeToBrute\TimeToBrute\obj\Debug\TimeToBrute.g.resources
+E:\Dropbox\!Coding\All_in_one\TimeToBrute\TimeToBrute\obj\Debug\TimeToBrute.Properties.Resources.resources
+E:\Dropbox\!Coding\All_in_one\TimeToBrute\TimeToBrute\obj\Debug\TimeToBrute.csproj.GenerateResource.Cache
+E:\Dropbox\!Coding\All_in_one\TimeToBrute\TimeToBrute\obj\Debug\TimeToBrute.exe
+E:\Dropbox\!Coding\All_in_one\TimeToBrute\TimeToBrute\obj\Debug\TimeToBrute.pdb
+E:\Dropbox\!Coding\All_in_one\TimeToBrute\TimeToBrute\obj\Debug\TimeToBrute.csprojResolveAssemblyReference.cache
